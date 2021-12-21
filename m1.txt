@@ -2,3 +2,4 @@ merge 1234
 merge 123
 merge by m2
 merge by web
+merge by web usting pull 
