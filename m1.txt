@@ -3,3 +3,7 @@ merge by m2
 rebaseing the featrure
 branch 
 m1 deleted from master
+merge 1234
+merge by m2 
+m2 file chg as m1234
+
