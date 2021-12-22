@@ -2,3 +2,4 @@ merge 123
 merge by m2 
 rebaseing the featrure
 branch 
+m1 deleted from master
